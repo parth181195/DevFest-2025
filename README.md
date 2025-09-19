@@ -1,6 +1,22 @@
 # Pre-Workshop Preparation Guide
 ## Google ADK Multi-Agent Stock Analyzer Workshop
 
+
+## 📌 NOTE  
+If for any reason you are unable to attend tomorrow’s workshop, please DM us at **+91 8160073298**.  
+
+---
+
+## 📍 Location  
+**SmartSense Consulting Solutions Pvt. Ltd**  
+4th Floor, GIFT One, GIFT City, Gandhinagar.  
+
+---
+
+## ⏰ Timings  
+**10 AM – 6 PM**  
+
+---
 ### 🎯 Workshop Overview
 In this hands-on workshop, you'll learn to build and deploy a multi-agent system using Google's Agent Development Kit (ADK). We'll create a stock analysis system with specialized agents and deploy it to Google Cloud Run for public access.
 
